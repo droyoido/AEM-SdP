@@ -71,6 +71,7 @@
 }
 
 body {
+  background: red !important;
   display: none;
   margin: 0;
   background-color: var(--background-color);
